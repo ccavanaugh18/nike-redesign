@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nike-redesign/static/css/main.c0aef710.css",
+    "main.js": "/nike-redesign/static/js/main.b4178922.js",
+    "static/js/787.9e5f0079.chunk.js": "/nike-redesign/static/js/787.9e5f0079.chunk.js",
+    "static/media/old-max.png": "/nike-redesign/static/media/old-max.5cf07402a4a3aee66e1d.png",
+    "static/media/multi-smart.png": "/nike-redesign/static/media/multi-smart.d2d46288b3f964c06841.png",
+    "static/media/jordan-pr3.png": "/nike-redesign/static/media/jordan-pr3.13e09cbb4804c9190959.png",
+    "static/media/zoom-max.png": "/nike-redesign/static/media/zoom-max.712eea95c502c9cdafa2.png",
+    "static/media/adapt-rose-bb.png": "/nike-redesign/static/media/adapt-rose-bb.cc141b8c1df4a8ca9180.png",
+    "static/media/air-max-black.png": "/nike-redesign/static/media/air-max-black.e632016cd8c0a3f073ca.png",
+    "static/media/air-low-premium.png": "/nike-redesign/static/media/air-low-premium.1cc87ac050a19ea744b2.png",
+    "static/media/air-premium.png": "/nike-redesign/static/media/air-premium.30bd525967e89d1acf92.png",
+    "static/media/force-green.png": "/nike-redesign/static/media/force-green.5f4b6da9e126aac0ec4f.png",
+    "static/media/hero-shoe.png": "/nike-redesign/static/media/hero-shoe.595fcef1e71d84640c75.png",
+    "static/media/nike-adapt-bb-smart.png": "/nike-redesign/static/media/nike-adapt-bb-smart.3ea6a0215b55e4b50817.png",
+    "static/media/lime-jordan-11.png": "/nike-redesign/static/media/lime-jordan-11.2723ee864e6d23664a2b.png",
+    "static/media/nike-adapt-bb2.png": "/nike-redesign/static/media/nike-adapt-bb2.52daf82e7f2d986c15dd.png",
+    "static/media/hero-bg.png": "/nike-redesign/static/media/hero-bg.c124480599554e4a6a37.png",
+    "static/media/nike-logo.png": "/nike-redesign/static/media/nike-logo.aa3419b8b2c6dda5adad.png",
+    "index.html": "/nike-redesign/index.html",
+    "main.c0aef710.css.map": "/nike-redesign/static/css/main.c0aef710.css.map",
+    "main.b4178922.js.map": "/nike-redesign/static/js/main.b4178922.js.map",
+    "787.9e5f0079.chunk.js.map": "/nike-redesign/static/js/787.9e5f0079.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0aef710.css",
+    "static/js/main.b4178922.js"
+  ]
+}
