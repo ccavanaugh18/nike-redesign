@@ -13,11 +13,11 @@ https://ccavanaugh18.github.io/nike-redesign/
 
 <div style="text-align: center;">
 <p>Home Page</p>
-	<img src="./src/assets/nike-screenshot.jpg" alt="Project Screenshot">
+	<img src="src/assets/nike-screenshot.jpg" alt="Project Screenshot">
 	
 </div>
 <br />
 <div style="text-align: center;">
 	<p>Products Section</p>
-	<img src="./src/assets/nike-screenshot2.jpg" alt="Project Screenshot">
+	<img src="src/assets/nike-screenshot2.jpg" alt="Project Screenshot">
 </div>
